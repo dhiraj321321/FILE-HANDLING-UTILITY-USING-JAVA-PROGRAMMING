@@ -52,3 +52,5 @@ Exception Handling:
 The program has try-catch blocks, which catch the IOException, making sure that if there is any error in performing file operations, the program keeps running.
 Writing to Files Appending
 FileWriter is a mode where new content is appended to the end of the file without deleting its current content when it is already in existence.
+
+**OUTPUT**:![OUTPUTTASK1](https://github.com/user-attachments/assets/633afb55-87d3-4133-81e6-8c87941246fb)
